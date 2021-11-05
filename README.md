@@ -22,7 +22,7 @@ This app allows for users to input budget info while travelling in and out of se
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Live-link
-https://pure-coast-85845.herokuapp.com/
+https://safe-mountain-55917.herokuapp.com/
 ## Questions
 Having an issue? Email me with any questions about the app nolanjosh1979@gmail.com
 
